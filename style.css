@@ -1,0 +1,26 @@
+body{
+    background-color: #00ffff;
+font-family: cursive;
+}
+
+.header_div{
+    background-color: rgb(55, 119, 175);
+    color: #00ffff;
+}
+
+.main_div button{
+    margin-top: 10px;
+    font-size: 30px;
+    color: #00ffff;
+    font-family: Dancing Script;
+}
+
+.footer{
+    width: 100%;
+    background-color: aliceblue;
+    color: #00ffff;
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    line-height: 3;
+}
